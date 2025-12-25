@@ -1,0 +1,4 @@
+Your balance is 0
+Your deposit is 50000
+your withdraw amount is 2000
+THANK YOU
